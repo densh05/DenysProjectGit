@@ -58,10 +58,8 @@ namespace Homework8Credit
                 Console.WriteLine("Ваша сума заборгованості {0} грн " , allAmount);
                 Console.WriteLine("Сума переплати {0} грн" , overPayment);
                 Console.WriteLine("У вас залишилось {0} платежів" , numberPayment);
-
-                Console.ReadKey();
             }
+            Console.ReadKey();
         }
-
     }
 }
